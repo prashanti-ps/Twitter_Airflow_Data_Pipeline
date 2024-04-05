@@ -3,7 +3,7 @@
 
 ## Overview:
 
-This project demonstrates a simple yet effective data pipeline for extracting, transforming, and loading (ETL) Twitter data using Airflow. By leveraging Airflow's capabilities, we automate the process of fetching tweets from the Twitter API, refining them with Python ETL scripts, and storing them in an Amazon S3 bucket.
+This project demonstrates a simple data pipeline for extracting, transforming, and loading (ETL) Twitter data using Airflow. By leveraging Airflow's capabilities, we automate the process of fetching tweets from the Twitter API, refining them with Python ETL scripts, and storing them in an Amazon S3 bucket.
 
 ## Architecture:
 
